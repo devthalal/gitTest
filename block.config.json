@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "https://github.com/devthalal/gitTest.git",
+    "ssh": "git@github.com:devthalal/gitTest.git",
+    "branch": "block_removeTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "removeTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "J8vdLYmBO3GBgVon5MaRl",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "2Bm25sDd7NL_hl8kZ1_OO"
+  ]
+}
