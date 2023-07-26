@@ -1,0 +1,36 @@
+{
+  "name": "gitTest",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/devthalal/gitTest.git",
+    "ssh": "git@github.com:devthalal/gitTest.git",
+    "branch": "block_gitTest"
+  },
+  "dependencies": {
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    }
+  },
+  "blockId": "2Bm25sDd7NL_hl8kZ1_OO",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
