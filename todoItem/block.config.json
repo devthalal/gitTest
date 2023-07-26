@@ -2,8 +2,8 @@
   "name": "todoItem",
   "type": "ui-elements",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/devthalal/gitTest.git",
+    "ssh": "git@github.com:devthalal/gitTest.git",
     "branch": "block_todoItem"
   },
   "language": "js",

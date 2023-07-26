@@ -2,8 +2,8 @@
   "name": "gitTest",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/devthalal/gitTest.git",
+    "ssh": "git@github.com:devthalal/gitTest.git",
     "branch": "block_gitTest"
   },
   "dependencies": {
