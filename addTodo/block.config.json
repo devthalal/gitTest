@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "",
+    "ssh": "",
+    "branch": "block_addTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "addTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "-0_b-zUTQw_Pp6-IX0A4Y",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "2Bm25sDd7NL_hl8kZ1_OO"
+  ]
+}
